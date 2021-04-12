@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.795521mm"
+   height="58.010117mm"
+   viewBox="0 0 49.795521 58.010117"
+   version="1.1"
+   id="svg912"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="hacker.svg">
+  <defs
+     id="defs906" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1171.2446"
+     inkscape:cy="418.19685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="1920"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata909">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(204.05848,-37.518751)">
+    <g
+       id="g888"
+       transform="matrix(0.26458333,0,0,0.26458333,-433.16072,-59.808997)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 868.39825,571.85011 c 0,-28.67666 0.68064,-67.52119 39.71463,-77.98032 -20.68397,-11.9419 -31.04463,-33.97949 -29.88949,-41.10239 15.15615,-26.25121 58.61049,-82.41449 82.2572,-82.41449 23.64671,0 67.99171,57.70593 82.25721,82.41449 -5.7952,23.75854 -8.0297,33.72845 -35.5496,41.10239 44.1558,8.77751 44.4136,55.04541 44.4136,77.98032 z"
+         id="path837"
+         sodipodi:nodetypes="ccczcccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 878.76784,456.30865 c 47.36324,-24.01811 119.79504,-24.63514 162.46436,0"
+         id="path839"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 919.04706,444.5922 c 0,65.52547 81.90594,66.3761 81.90594,0"
+         id="path841"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#2c3e50;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 906.75282,584.60375 0.11924,-54.20676 c 0,-7.73187 6.26161,-14.02999 14.34093,-14.02999 h 78.3152 c 6.94121,0 13.71901,6.08222 13.71901,14.02999 v 54.20676 z"
+         id="path843"
+         sodipodi:nodetypes="ccccccc" />
+      <g
+         id="g864"
+         transform="translate(-1.2243047)">
+        <circle
+           style="fill:#000000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path845"
+           cx="943.41742"
+           cy="452.3764"
+           r="5.1319647" />
+        <circle
+           style="fill:#000000;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path845-3"
+           cx="979.03125"
+           cy="452.3764"
+           r="5.1319647" />
+      </g>
+    </g>
+  </g>
+</svg>
