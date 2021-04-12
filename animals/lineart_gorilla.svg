@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="69.179497mm"
+   height="62.652157mm"
+   viewBox="0 0 69.179497 62.652157"
+   version="1.1"
+   id="svg3639"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="lineart_gorilla.svg">
+  <defs
+     id="defs3633" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="724.68486"
+     inkscape:cy="-269.58615"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="1920"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3636">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.487633,-85.090589)">
+    <g
+       id="g3617"
+       transform="matrix(0.26458333,0,0,0.26458333,46.224908,-210.60651)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 296.66569,1331.1969 c -7.53255,3.3046 -15.22978,6.4258 -13.50407,20.0439 l 50.62322,-0.4407 c -5.94501,-18.4821 -6.98143,-37.4746 0.21225,-57.3229 9.29005,-15.2608 19.64482,-37.8971 15.03951,-64.5158 -4.56891,-26.4083 1.51951,-55.9698 -76.95325,-52.9998 -23.94634,0.2835 -44.98532,12.7836 -75.70782,-15.4062 -17.67394,-25.8215 -34.68491,-54.5197 -63.59638,-31.5804 -14.0045,1.412 -23.56863,8.2773 -27.81964,21.668 l 0.8501,19.5947 c -5.46146,4.4439 -10.021725,9.3882 -11.107984,16.2618 15.027724,26.5076 31.149274,20.34 47.340684,12.0856 6.33761,-7.934 10.17003,-9.4252 14.14805,-11.2908"
+         id="path910"
+         sodipodi:nodetypes="ccccscccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 142.04231,1198.5851 c -9.10707,53.8708 -1.5852,90.7832 1.57719,132.1414 0.88642,17.4661 8.59392,20.5506 17.7104,20.6644 l 15.02968,-0.5854 c 7.01605,-1.2499 7.58358,-5.1019 8.68642,-8.7379"
+         id="path912"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 170.68541,1335.6764 c 3.13362,-8.4532 -6.47029,-0.9532 19.49252,-37.9989 5.60585,-12.1986 -0.47891,-26.6842 -4.21432,-40.7103 32.44662,22.3611 63.97384,20.267 94.91395,2.5565"
+         id="path914"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 269.02789,1251.5689 c 10.07117,6.6052 20.70672,12.8518 19.91302,26.3583"
+         id="path916"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path908-7-5"
+         cx="122.39728"
+         cy="1163.8041"
+         r="3.847333" />
+    </g>
+  </g>
+</svg>
