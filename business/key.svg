@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.827095mm"
-   height="9.618659mm"
-   viewBox="0 0 87.970022 34.081863"
+   width="24.622271mm"
+   height="9.6185341mm"
+   viewBox="0 0 87.244266 34.08142"
    id="svg4560"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="key.svg">
   <defs
      id="defs4562" />
@@ -25,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="19.313979"
-     inkscape:cy="23.054054"
+     inkscape:zoom="15.839192"
+     inkscape:cx="45.980979"
+     inkscape:cy="22.144406"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,11 +33,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="1125"
-     inkscape:window-x="1600"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="3840"
+     inkscape:window-height="2071"
+     inkscape:window-x="3840"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata4565">
     <rdf:RDF>
@@ -48,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,29 +56,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(66.842149,50.393011)">
-    <g
-       transform="translate(-232.00575,-225.70236)"
-       id="g4519">
-      <ellipse
-         ry="17.040932"
-         rx="17.145222"
-         cy="192.35028"
-         cx="182.30882"
-         id="path4138"
-         style="opacity:1;fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <ellipse
-         ry="4.8279357"
-         rx="4.8574824"
-         cy="192.35028"
-         cx="174.6416"
-         id="path4149"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="ccccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path4162"
-         d="m 195.50915,187.26915 51.79046,0 5.10762,4.84668 -5.10762,4.84669 -4.88555,0 -2.19222,-7.76535 -2.19223,7.76535 -3.75814,0 -2.42008,4.52187 -2.42009,-4.52187 -5.37508,0 -2.66273,-2.02011 -2.66273,2.02011 -5.03783,0 -3.18495,-4.10355 -3.18495,4.10355 -11.36806,0"
-         style="fill:#c0392b;fill-rule:evenodd;stroke:#c0392b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+    <path
+       id="path4138"
+       style="fill:#c0392b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 18.289062,0 A 18.288236,18.176994 0 0 0 0,18.177734 18.288236,18.176994 0 0 0 18.289062,36.353516 18.288236,18.176994 0 0 0 35.894531,23.097656 h 9.076172 l 3.396485,-4.378906 3.396484,4.378906 h 5.375 l 2.839844,-2.15625 2.839843,2.15625 h 5.734375 l 2.580078,4.822266 2.582032,-4.822266 h 4.009765 l 2.337891,-6.943359 2.337891,6.943359 h 5.210937 l 5.449219,-5.75 -5.449219,-5.75 H 35.335938 A 18.288236,18.176994 0 0 0 18.289062,0 Z M 9.4296875,11.806641 a 5.1813146,5.1497981 0 0 1 0.087891,0 5.1813146,5.1497981 0 0 1 5.1816405,5.148437 5.1813146,5.1497981 0 0 1 -5.1816405,5.150391 5.1813146,5.1497981 0 0 1 -5.1816406,-5.150391 5.1813146,5.1497981 0 0 1 5.0937496,-5.148437 z"
+       transform="matrix(0.9375,0,0,0.9375,-66.842149,-50.393011)" />
   </g>
 </svg>
